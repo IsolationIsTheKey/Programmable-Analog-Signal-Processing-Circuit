@@ -1,5 +1,10 @@
 ![Preview](SCIApreview.jpg)
 
+University: Technical University of Cluj-Napoca  
+Course: Analog Integrated Circuit Systems  
+Author: Zabunov Daniil    
+Year: 2024      
+
 Project Overview  
 
 This project involves designing a multi-stage analog signal processing circuit using the OP-AMP LTC1151.  
