@@ -1,3 +1,5 @@
+![Preview](SCIApreview.jpg)
+
 Project Overview  
 
 This project involves designing a multi-stage analog signal processing circuit using the OP-AMP LTC1151.  
